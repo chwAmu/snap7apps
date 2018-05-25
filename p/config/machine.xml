@@ -1,0 +1,17 @@
+<Machine>
+	<loggingRecord name="gt">
+		<point  NodeID="ns=3;s=&quot;TestingDB&quot;.&quot;Data&quot;[0]">Temperature 1</point>
+		<point  NodeID="ns=3;s=&quot;TestingDB&quot;.&quot;Data&quot;[1]">Temperature 2</point>
+		<point  NodeID="ns=3;s=&quot;TestingDB&quot;.&quot;Data&quot;[2]">Temperature 3</point>
+		<point  NodeID="ns=3;s=&quot;TestingDB&quot;.&quot;Data&quot;[3]">Temperature 4</point>
+		<point  NodeID="ns=3;s=&quot;TestingDB&quot;.&quot;Data&quot;[4]">Temperature 5</point>
+		<point  NodeID="ns=3;s=&quot;TestingDB&quot;.&quot;Data&quot;[5]">Temperature 6</point>
+		<point  NodeID="ns=3;s=&quot;TestingDB&quot;.&quot;Data&quot;[6]">Temperature 7</point>
+		<point  NodeID="ns=3;s=&quot;TestingDB&quot;.&quot;Data&quot;[7]">Temperature 8</point>
+	</loggingRecord>
+	<loggingRecord name="mt">
+		<point  NodeID="ns=3;s=&quot;TestingDB&quot;.&quot;Data&quot;[8]">running speed</point>
+		<point  NodeID="ns=3;s=&quot;TestingDB&quot;.&quot;Data&quot;[9]">oss</point>
+		<point  NodeID="ns=3;s=&quot;TestingDB&quot;.&quot;Data&quot;[10]">power</point>
+	</loggingRecord>	
+</Machine>
